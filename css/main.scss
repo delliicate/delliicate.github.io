@@ -1,0 +1,20 @@
+$primary:#3B8CCD;
+$secondary:#277BC0;
+$warning:#F7CC5E;
+$warning-secondary:#FDF4D4;
+
+.bg-warning-secondary{
+    background-color: #FDF4D4;
+  }
+.bg-section-secondary{
+    background-color: #BACAD9;
+  }
+.text-stroke{
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
